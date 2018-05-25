@@ -516,6 +516,9 @@
                   }
                 }
               }
+            },
+            ".mbr-text LI": {
+              "color": "#cccccc"
             }
           },
           "_name": "content11",
