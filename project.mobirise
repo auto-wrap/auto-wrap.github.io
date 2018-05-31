@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "oksign",
-    "currentPage": "oksign.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -889,7 +889,7 @@
         }
       ]
     },
-    "oksign.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "oksign",
