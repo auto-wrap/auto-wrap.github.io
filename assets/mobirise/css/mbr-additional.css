@@ -8662,7 +8662,7 @@ body {
   color: #f7ed4a;
 }
 .cid-qUdaDHHHcj {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-color: #073b4c;
 }
 .cid-qUdaDHHHcj h1 {
   color: #616161;
@@ -8674,6 +8674,15 @@ body {
 }
 .cid-qUdaDHHHcj .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-qUdaDHHHcj H1 {
+  color: #ffffff;
+}
+.cid-qUdaDHHHcj H3 {
+  color: #f7ed4a;
+}
+.cid-qUdaDHHHcj P {
+  color: #ffffff;
 }
 .cid-qSZcv3c6vh {
   padding-top: 30px;
