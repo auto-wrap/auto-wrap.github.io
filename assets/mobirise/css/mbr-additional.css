@@ -1632,7 +1632,7 @@ body {
 }
 .cid-qR0s52Q4KN {
   padding-top: 135px;
-  padding-bottom: 75px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/audi-yellow-1932x1150.png");
 }
 .cid-qR0s52Q4KN H1 {
@@ -2050,7 +2050,7 @@ body {
   }
 }
 .cid-qTEpNJJNlI .mbr-section-subtitle B {
-  color: #ff3366;
+  color: #073b4c;
 }
 .cid-qR0tzlSZXH {
   padding-top: 60px;
@@ -10949,7 +10949,7 @@ body {
 .cid-qR0s52Q4KN {
   padding-top: 135px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/audi-yellow-1932x1150.png");
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
 .cid-qR0s52Q4KN H1 {
   color: #efefef;
@@ -11717,7 +11717,7 @@ body {
 .cid-qR0s52Q4KN {
   padding-top: 135px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/audi-yellow-1932x1150.png");
+  background-image: url("../../../assets/images/mbr-1080x1080.jpg");
 }
 .cid-qR0s52Q4KN H1 {
   color: #efefef;
@@ -11732,46 +11732,6 @@ body {
 }
 .cid-qR0s52Q4KN B {
   color: #ffffff;
-}
-.cid-qR0tmApQPo {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #465052;
-}
-.cid-qR0tmApQPo .counter-container {
-  color: #767676;
-}
-.cid-qR0tmApQPo .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-qR0tmApQPo .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-qR0tmApQPo .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-qR0tmApQPo .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #5b686b;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  border-radius: 0;
-}
-.cid-qR0tmApQPo .mbr-text LI {
-  color: #cccccc;
 }
 .cid-qTErCYEKlZ {
   padding-top: 90px;
